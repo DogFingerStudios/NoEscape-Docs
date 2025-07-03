@@ -87,7 +87,7 @@
 
 2. **Unique Abilities**
 
-   - Kusi-Rose (daughter) can crawl through vents.
+   - Rose (daughter) can crawl through vents.
    - Túpac (grandfather) can fight back or assist in combat.
 
 3. **Permadeath System**

@@ -8,7 +8,7 @@ Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with 
   - Survival mechanics: stealth, combat, escape routes (stairs, vents, fire escape).
   - Permadeath: player can die at any time, triggering game over.
   - Two victory conditions: signal helicopter on the roof or kill 15-20 Sombra-Qhari guards.
-  - Family dynamics: 5 members (player, Qori, Pachacuti, Kusi-Rose, Túpac) with roles (e.g., Pachacuti’s pututu horn for signaling).
+  - Family dynamics: 5 members (player, Qori, Pachacuti, Rose, Túpac) with roles (e.g., Pachacuti’s pututu horn for signaling).
   - Multiple endings (5 outlined: Rooftop Liberation, Rooftop Trap, Last Stand Victory, Heroic Sacrifice, Total Defeat).
 - **Cultural Elements**:
   - Quechua-French naming and lore (e.g., Inti-Raymi Rébellion, Inti-Tahuantinsuyo ideology).
@@ -45,7 +45,7 @@ Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with 
   - **AI**: Sombra-Qhari guards need patrol routes, chase behavior, and combat. Unity’s NavMesh and state machines (e.g., patrol → alert → attack) are straightforward to implement. Your performance background ensures you can optimize pathfinding for 15-20 guards.
   - **Mechanics**: Stealth (line-of-sight checks), combat (basic melee/ranged), and permadeath (health system with instant game-over) are all within your wheelhouse. Backend experience helps with event systems (e.g., Pachacuti’s pututu triggering a distraction).
   - **Endings**: Multiple endings (5) require a state tracker (e.g., family survival, guards killed, timer for helicopter). This is similar to backend state management—easy for you to code.
-  - **Family Dynamics**: Each member’s role (e.g., Kusi-Rose in vents, Túpac fighting) can be scripted as abilities with cooldowns or conditions. Your C# skills make this a breeze.
+  - **Family Dynamics**: Each member’s role (e.g., Rose in vents, Túpac fighting) can be scripted as abilities with cooldowns or conditions. Your C# skills make this a breeze.
 
 - **Assets and Art**:
   - You’re outsourcing the tower model and tweaks, which saves time. Unity Asset Store offers free/low-cost WWII props (e.g., sandbags, radios) and character models (e.g., for Sombra-Qhari). Audio like pututu sounds or air-raid sirens can be sourced from freesound.org.
@@ -67,7 +67,7 @@ Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with 
 - **Full Game (6-12 Months)**:
   - Full 20 floors (modular, detailed): 1-2 months.
   - Advanced AI (combat, group tactics): 1 month.
-  - Family mechanics (e.g., Pachacuti’s pututu, Kusi-Rose in vents): 1 month.
+  - Family mechanics (e.g., Pachacuti’s pututu, Rose in vents): 1 month.
   - All endings (5 total): 1 month.
   - Polish (audio, visuals, UI, bug fixes): 2-3 months.
   - Playtesting and balancing: 1-2 months.

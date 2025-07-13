@@ -1,4 +1,4 @@
-Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with a 20-story Torre-Casa de Runa under siege by the Sombra-Qhari Guerrillas—is too much for you to program solo. As a professional programmer with 25 years of experience in C++ and C#, specializing in backend high-performance systems, you bring a strong skill set to the table. I’ll break this down by scope, technical demands, your expertise, and realistic timelines, while considering the game’s features: survival horror mechanics, permadeath, multiple endings (rooftop rescue or kill-all), a 20-floor tower, and cultural elements.
+Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with a 20-story Torre-Casa de Runa under siege by the Sombra Insurgents—is too much for you to program solo. As a professional programmer with 25 years of experience in C++ and C#, specializing in backend high-performance systems, you bring a strong skill set to the table. I’ll break this down by scope, technical demands, your expertise, and realistic timelines, while considering the game’s features: survival horror mechanics, permadeath, multiple endings (rooftop rescue or kill-all), a 20-floor tower, and cultural elements.
 
 ---
 
@@ -7,7 +7,7 @@ Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with 
   - 20-floor tower with distinct floors (e.g., Ground Floor with sandbags, Floor 15 with the Tumi-Lumière, Roof signal point).
   - Survival mechanics: stealth, combat, escape routes (stairs, vents, fire escape).
   - Permadeath: player can die at any time, triggering game over.
-  - Two victory conditions: signal helicopter on the roof or kill 15-20 Sombra-Qhari guards.
+  - Two victory conditions: signal helicopter on the roof or kill 15-20 Sombra guards.
   - Family dynamics: 5 members (player, Qori, Pachacuti, Rose, Túpac) with roles (e.g., Pachacuti’s pututu horn for signaling).
   - Multiple endings (5 outlined: Rooftop Liberation, Rooftop Trap, Last Stand Victory, Heroic Sacrifice, Total Defeat).
 - **Cultural Elements**:
@@ -15,7 +15,7 @@ Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with 
   - WWII-inspired aesthetics: sandbags, old radios, rationed food.
 - **Technical Requirements**:
   - 3D environment (Unity or Unreal Engine, likely in C# or C++).
-  - AI for Sombra-Qhari guards (patrol, chase, combat).
+  - AI for Sombra guards (patrol, chase, combat).
   - Physics for interactions (barricades, Molotovs, vent crawling).
   - Audio (pututu horn, enemy shouts, ambient sounds like air-raid sirens).
   - UI for inventory, family status, and choices.
@@ -42,13 +42,13 @@ Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with 
 
 - **Coding Complexity**:
   - **Tower Layout**: 20 floors, but most can be modular (e.g., reuse apartment layouts with variations like bloodstains or sandbags). You can script floor generation with randomization (e.g., spawn 2-3 guards per floor, scatter props), which your backend experience makes manageable.
-  - **AI**: Sombra-Qhari guards need patrol routes, chase behavior, and combat. Unity’s NavMesh and state machines (e.g., patrol → alert → attack) are straightforward to implement. Your performance background ensures you can optimize pathfinding for 15-20 guards.
+  - **AI**: Sombra guards need patrol routes, chase behavior, and combat. Unity’s NavMesh and state machines (e.g., patrol → alert → attack) are straightforward to implement. Your performance background ensures you can optimize pathfinding for 15-20 guards.
   - **Mechanics**: Stealth (line-of-sight checks), combat (basic melee/ranged), and permadeath (health system with instant game-over) are all within your wheelhouse. Backend experience helps with event systems (e.g., Pachacuti’s pututu triggering a distraction).
   - **Endings**: Multiple endings (5) require a state tracker (e.g., family survival, guards killed, timer for helicopter). This is similar to backend state management—easy for you to code.
   - **Family Dynamics**: Each member’s role (e.g., Rose in vents, Túpac fighting) can be scripted as abilities with cooldowns or conditions. Your C# skills make this a breeze.
 
 - **Assets and Art**:
-  - You’re outsourcing the tower model and tweaks, which saves time. Unity Asset Store offers free/low-cost WWII props (e.g., sandbags, radios) and character models (e.g., for Sombra-Qhari). Audio like pututu sounds or air-raid sirens can be sourced from freesound.org.
+  - You’re outsourcing the tower model and tweaks, which saves time. Unity Asset Store offers free/low-cost WWII props (e.g., sandbags, radios) and character models (e.g., for Sombra). Audio like pututu sounds or air-raid sirens can be sourced from freesound.org.
   - Your backend focus means you might struggle with animation (e.g., guard walk cycles, family reactions), but pre-made animation packs (e.g., Mixamo) can fill the gap.
 
 - **Challenges**:
@@ -110,7 +110,7 @@ Let’s evaluate whether your horror game—set in the 1940s Qusqui-Paris, with 
 4. **Scope Tightly**:
    - Cap initial enemy count at 10 (scale to 15-20 later).
    - Start with 3 endings (Rooftop Liberation, Last Stand Victory, Total Defeat), then add the others.
-   - Reuse assets (e.g., same Sombra-Qhari model with color variations).
+   - Reuse assets (e.g., same Sombra model with color variations).
 
 ---
 

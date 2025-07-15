@@ -3,16 +3,30 @@
 
 ## 0. Backstory - World Overview
 
-### 1. COSMIC STATE
+### A. COSMIC STATE
 
-- ~250 years (or ~10 generations) ago, a massive celestial object entered the solar system.
-- The planet’s orbit was destabilized into a tightening elliptical path.
-- Summers are shorter and hotter; winters longer and colder. Seasonal lenghts are unpredictable.
-- Astronomers are uncertain: the planet may fall into its star or be ejected into space.
-- This event stunted global development and initiated long-term societal depression.
-- Most people believe extinction is inevitable.
+* \~400 Earth years (\~146,100 days) ago, a massive celestial object entered the solar system—an event known as **The Drift**.
+* The planet **Yanorra** was thrown into a tightening elliptical orbit.
+* Summers have become shorter and hotter; winters longer and colder. Seasonal lengths are now unpredictable.
+* Astronomers are uncertain: the planet may fall into its star or be ejected from its system.
+* The Drift stunted global development and triggered long-term societal depression.
+* Most people believe extinction is inevitable.
 
-### 2. TECHNOLOGY
+### B. PLANETARY CONTEXT
+
+#### Planet Name: **Yanorra**
+
+* Terrestrial, Earth-sized
+* Rotational cycle ≈ 1 Earth day
+
+#### Moons
+
+* **Serya** – Larger moon, stable, linked to timekeeping and tradition.
+* **Mirelda** – Smaller, erratic moon associated with misfortune and tidal chaos.
+
+Their competing gravitation has made sea travel difficult—an issue amplified by The Drift.
+
+### C. TECHNOLOGY
 
 #### Communication
 - No cell towers or internet infrastructure ever developed.
@@ -20,7 +34,7 @@
 - Signal range is limited to line-of-sight or tower bounce.
 - Interference is common; messages are delayed or lost.
 
-##### Power
+#### Power
 - Electricity is sparse and unreliable.
 - Sources: solar panels, wind-up generators, diesel (rare).
 - Kerosene, firewood, and candles are still in daily use.
@@ -37,7 +51,7 @@
 - Mechanical tools, analog radios, and paper systems dominate.
 - Film photography exists but is uncommon due to scarcity of materials.
 
-### 3. RELEVANT GEOGRAPHY
+### D. RELEVANT GEOGRAPHY
 
 #### Mainland: Duvessa
 - Fictional country in civil war.
@@ -87,11 +101,43 @@
 - Believed to hold relics, knowledge, or salvation.
 - No confirmed sightings.
 
+### E. CALENDAR SYSTEM (Post-Drift)
+
+- Time is measured in planetary rotations ("cycles").
+- Traditional years are no longer used. Instead, time is logged in:
+  - **1 day** = 1 cycle
+  - **1 decara** = 10 cycles
+  - **1 centara** = 1,000 cycles (100 decara)
+  - **1 milarna** = 1,000 centara = 1,000,000 cycles
+- Dates are recorded in the format: **centara.decara.day**  
+  Example: `142.22.8` = 142,228 days since The Drift
+- The current date is approximately `146.10.0` (146,100 days since The Drift)
+
+### F. GEOPOLITICAL EXTENSION: VELU
+
+#### Nation: **Velu**
+- Stable, distant country to the east, across the Brooding Sea and beyond the Farlands.
+- Known for tight border control and strict immigration policy.
+- Technologically stable, relatively insulated from the worst effects of The Drift.
+- Does not participate directly in Duvessa’s civil war, but exerts influence via trade limitations.
+
+#### Gate Thaurin
+- Primary point of entry into Velu.
+- Operates as a controlled and fortified immigration port.
+- Acts as a political chokepoint: heavily surveilled, selectively open.
+- All sanctioned trade and movement to Velu from Duvessa passes through here.
+- Rumors persist of undocumented refugees and smuggled correspondence being turned away or "disappeared."
+
+#### Trade Route Summary
+- Goods flow from **Port Sable** (mainland Duvessa) to **Sabletown** (on Sable Island in the Riftlands).
+- From there, ships may continue eastward toward **Gate Thaurin** in **Velu**.
+- While travel to Velu is technically possible, immigration enforcement and screening make access extremely limited.
+
 ---
 
 ## 1. Story
 
-## 1. Saint Aveline Island
+### A. Saint Aveline Island
 
 Off the storm-bitten coast of **Duvessa**—a fictional country consumed by civil war—lies the remote island of **Saint Aveline**. Once a colonial outpost, then a quiet retreat for exiles and scholars, Saint Aveline has long been a restreat for those seeking a quiet life of seclusion away. 
 
@@ -99,7 +145,7 @@ Off the storm-bitten coast of **Duvessa**—a fictional country consumed by civi
 The mainland burns. Duvessa is in the grip of a brutal civil war between the authoritarian regime, enforced by the **The Dornish Order (DO)**, and a radical insurgent faction known as the **Sombra Insurgents**. For months, Saint Aveline remained untouched, isolated by sea and silence—but that silence has broken. A small group of Sombra operatives has landed on the island, hunting for anyonone who dares resist them, and ensuring that no one escapes their wrath.
 
 
-## 2. The Occupied City: Saint Aveline
+### B. The Occupied City: Saint Aveline
 **Saint Aveline** is a tense mosaic of Quechua and French influences:
 
 - **Occupied Streets**: Sandbagged checkpoints, patrolling DO soldiers, and propaganda posters extolling the sun god Inti—part of the DO’s syncretic belief system known as **Inti-Tahuantinsuyo**.  
@@ -108,14 +154,14 @@ The mainland burns. Duvessa is in the grip of a brutal civil war between the aut
 
 Despite the occupation, everyday life has continued. Families gather, shops struggle to stay open, and citizens keep their heads down, hoping not to catch the ire of either side.
 
-## 3. The Sombra Insurgents Infiltrate
+### C. The Sombra Insurgents Infiltrate
 Led by **Capac Dupont**, a renegade commander consumed by rage and a vision of overthrowing the DO, the **Sombra Insurgents** launch a brutal assault. After months of blocked attempts, they finally breach Saint Aveline’s defenses. Now that they have infiltrated the city, they sweep from building to building in a methodical, fearsome purge, leaving destruction in their wake.
 
 - **Ideology**: They follow **Yana-Pacha** (the Dark World), a counterpoint to the DO’s Inti-worship. Their motto: **“Pour Yana-Pacha—mort à l’Inti!”** (For the Dark World—death to the Sun!).  
 - **Appearance & Tactics**: Donning patched ponchos, worn leather boots, and wielding improvised or antique weaponry—chonta spears, _fusils anciens_, and _bombe-feu_ (firebombs)—they engage in close-quarters, chaotic combat.  
 - **Rampage & Rumors**: Alongside their generalized destruction, the guerrillas search obsessively for the **Tumi-Lumière**, a mystical artifact rumored to bolster the DO’s spiritual hold on Aurelia. Exactly where it’s hidden within the city remains unclear. Armed with fervor and vengeance, the rebels kill indiscriminately, branding all city dwellers as DO collaborators unless proven otherwise.
 
-## 4. Your Family’s Struggle
+### D. Your Family’s Struggle
 On the **9th floor** of a **Torre-Casa de Runa**—one of many tower-houses in the lower district of Saint Aveline—your family gathers for a simple evening meal. There is nothing special or symbolic about this particular building; it is simply your home. Tonight’s meager feast of choclo and llama charqui is abruptly interrupted by a distant explosion echoing through the city. A moment later, **Capac Dupont’s** voice bellows over crackling loudspeakers or from the mouths of roving rebels:
 
 > “Pas de pitié—trouvez Tumi-Lumière!”  

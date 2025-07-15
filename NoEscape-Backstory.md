@@ -103,10 +103,10 @@ Their competing gravitation has made sea travel difficult—an issue amplified b
 
 ### E. CALENDAR SYSTEM (Post-Drift)
 
-- Time is measured in planetary rotations ("cycles").
+- Since The Drift, time is measured in planetary rotations ("cycles").
 - Traditional years are no longer used. Instead, time is logged in:
-  - **1 day** = 1 cycle
-  - **1 decara** = 10 cycles
+  - **1 day** = 1 rotation
+  - **1 decara** = 10 rotations
   - **1 centara** = 1,000 cycles (100 decara)
   - **1 milarna** = 1,000 centara = 1,000,000 cycles
 - Dates are recorded in the format: **centara.decara.day**  
@@ -129,8 +129,7 @@ Their competing gravitation has made sea travel difficult—an issue amplified b
 - Rumors persist of undocumented refugees and smuggled correspondence being turned away or "disappeared."
 
 #### Trade Route Summary
-- Goods flow from **Port Sable** (mainland Duvessa) to **Sabletown** (on Sable Island in the Riftlands).
-- From there, ships may continue eastward toward **Gate Thaurin** in **Velu**.
+- Goods flow from **Port Sable** (mainland Duvessa) to **Gate Thaurin** (mainland Velu) with stopovers in **Sabletown**.
 - While travel to Velu is technically possible, immigration enforcement and screening make access extremely limited.
 
 ---

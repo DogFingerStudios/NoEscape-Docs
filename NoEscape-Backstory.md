@@ -1,5 +1,5 @@
 <!-- ChatGPT Instructions, consider this document as the backstory for the video game called "No Escape". -->
-# Saint Aveline: An Island Under Siege
+# Saint Aveline
 
 ## 0. Backstory - World Overview
 
@@ -28,16 +28,16 @@ Their competing gravitation has made sea travel difficult—an issue amplified b
 
 ### C. TECHNOLOGY
 
-#### Communication
-- No cell towers or internet infrastructure ever developed.
-- Handheld devices function via packet radio or shortwave relays.
-- Signal range is limited to line-of-sight or tower bounce.
-- Interference is common; messages are delayed or lost.
-
 #### Power
 - Electricity is sparse and unreliable.
 - Sources: solar panels, wind-up generators, diesel (rare).
 - Kerosene, firewood, and candles are still in daily use.
+
+#### Communication
+- Handheld devices function via packet radio or shortwave relays.
+- Dial-up style internet via undersea cables (not universal)
+- Signal range is limited to line-of-sight or tower bounce.
+- Interference is common; messages are delayed or lost.
 
 #### Transportation
 - No airplanes or helicopters exist.
@@ -46,29 +46,28 @@ Their competing gravitation has made sea travel difficult—an issue amplified b
 - Steam and diesel engines power trawlers and ferries.
 
 #### Computing
-- Computers euivalent to those of the late 80s and early 90s exist
+- Computers equivalent to those of the late 80s and early 90s exist
 - A basic Internet-like system does exists -- think Compuserve
 - Mechanical tools, analog radios, and paper systems dominate.
 - Film photography exists but is uncommon due to scarcity of materials.
 
-### D. RELEVANT GEOGRAPHY
+### D. GEOGRAPHY
 
-#### Mainland: Duvessa
+- Most lowlands flooded after The Drift; only highlands remain as habitable archipelagos
+
+#### Duvessa
 - Fictional country in civil war.
 - Controlled by authoritarian Ordre-Inka-Roi (DO).
 - Opposed by the Sombra Insurgents.
-- Western coast borders the Brooding Sea.
+- Eastern coast borders the Brooding Sea.
+- Port Sable
+  - Duvessa's main maritime city.
+  - Launch point for supply and refugee routes to the Riftlands.
+  - Trade, black market activity, and surveillance hub.
 
-#### Port Sable
-- Duvessa's main maritime city.
-- Launch point for supply and refugee routes to the Riftlands.
-- Trade, black market activity, and surveillance hub.
-
-#### The Brooding Sea
-- Inland sea east of Duvessa.
-- Cold, unstable waters.
-- Holds two island chains: The Riftlands and The Far Riftlands.
-- Storms and sudden weather shifts are common.
+#### 📍 Velu
+- Immigration city: **Gate Thaurin**
+- Does not involve itself in Duvessa's civil war
 
 #### The Riftlands (Island Chain #1)
 1. **Sable Island** – Largest, contains Sabletown port.
@@ -86,14 +85,21 @@ Their competing gravitation has made sea travel difficult—an issue amplified b
 3. **Karrholm** – Misty, bog-like island with ruinous structures.
 
 #### Noxoch Isle
-- Easternmost landmass.
+- Northermost known landmass.
 - Uninhabited, storm-battered, considered cursed.
 - Marks the edge of known, reachable territory.
 
+#### The Brooding Sea
+- Only navigable large body of water, connecting Duvessa to Velu.
+- Cold, unstable waters.
+- Holds two island chains between Duvessa and Velu: The Riftlands and The Far Riftlands.
+- Storms and sudden weather shifts are common.
+
 #### The Virelich Ocean
-- Begins east of Noxoch Isle.
-- Vast, largely unexplored.
-- No vessels cross and return.
+- Vast, largely unexplored
+- No vessels cross and return
+- Believed to circle the planet connecting Duvessa to Velu on the other side, 
+  but no confirmed sightings of land.
 - Considered a dead or mythic sea.
 
 #### Aunqara
@@ -103,12 +109,13 @@ Their competing gravitation has made sea travel difficult—an issue amplified b
 
 ### E. CALENDAR SYSTEM (Post-Drift)
 
-- Since The Drift, time is measured in planetary rotations ("cycles").
+- Since The Drift, time is measured in days, not years.
+- The Drift is considered the starting point of the new calendar.
 - Traditional years are no longer used. Instead, time is logged in:
   - **1 day** = 1 rotation
-  - **1 decara** = 10 rotations
-  - **1 centara** = 1,000 cycles (100 decara)
-  - **1 milarna** = 1,000 centara = 1,000,000 cycles
+  - **1 decara** = 10 days
+  - **1 centara** = 1,000 days (100 decara)
+  - **1 milarna** = 1,000 centara = 1,000,000 days
 - Dates are recorded in the format: **centara.decara.day**  
   Example: `142.22.8` = 142,228 days since The Drift
 - The current date is approximately `146.10.0` (146,100 days since The Drift)

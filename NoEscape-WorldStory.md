@@ -17,7 +17,7 @@ Yanorra - World Overview
 * Rotational cycle ≈ 1 Earth day
 * Yearly cycle = Increasingly unpredictable, no longer follows a fixed calendar. Calendar system is based on cycles (i.e. days) rather than years.
 
-## Moons
+## Satellites
 
 Yanorra has two satellites. Their competing gravitation has made sea travel difficult -- an issue amplified by The Drift.
 

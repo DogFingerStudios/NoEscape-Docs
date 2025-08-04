@@ -32,9 +32,9 @@ The known world consists of two main continents: **East Yanorra** and **West Yan
 
 The existence of other continents or landmasses is a subject of debate. Numerous myths and stories describe lands beyond the known world, most originating shortly before The Drift, when oceanic exploration was still possible.
 
-Erik the Explorer was a renowned traveler who claimed to have journeyed beyond the Eastvoid Ocean, returning with unusual artifacts, wildlife, and plants from a place he called **Aunqara**.
+**Erik the Explorer** was a renowned traveler who claimed to have journeyed beyond the Eastvoid Ocean, returning with unusual artifacts, wildlife, and plants from a place he called **Aunqara**.
 
-A group known as the **Aunqaran** is said to have accompanied Erik back and settled in Velu and other areas of the known world. Today, the existence of Aunqara, and the origination of the Aunqaran, is widely disputed and considered by many to be a myth. 
+A group known as the **Aunqaran** is said to have accompanied Erik back and settled in Velu and other areas of the known world. Today, the existence of Aunqara, and the origination of the Aunqaran, is widely disputed and considered by many to be a myth. The Aunqaran themselves are now a small, insular group, concentrated in Velu, and claim to maintain cultural ties to Aunqara.
 
 Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqara have ended in failure, with no one returning.
 
@@ -45,7 +45,6 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ### Velu
 - Capital: Byad (population: ~500,000)
-- Largest city: Port Sable (population: ~1.2 million)
 - Government
   - Stable and authoritarian, with moderate democratic elements.
   - Known for tight border control and strict immigration policy.
@@ -71,7 +70,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ### Duvessa
 - Capital: Côte du Soleil
-- Largest city: Port Sable
+- Largest city: Port Sable (population: ~1.2 million)
 - Government
   - Controlled by authoritarian Ordre-Inka-Roi (DO).
   - Ongoing civil war between DO and Sombra Insurgents.
@@ -103,6 +102,11 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
   - Northernmost landmass.
   - Uninhabited, storm-battered, considered cursed.
   - Marks the edge of known, reachable northern territory.
+
+### Hav
+- Capital: Flord-Clif (population: 50,000)
+- A large, isolated and sparsely populated landmass, located south of East and West Yanorra. Hav is only accessible by sea from southern East Yanorra.
+
 
 ### Obetoku
 - Capital: Sanceibei (population: ~700,000)

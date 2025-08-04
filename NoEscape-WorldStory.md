@@ -10,7 +10,12 @@
 * The Drift stunted global development and triggered long-term societal depression.
 * Most people believe extinction is inevitable.
 
-## B. Planetary Data
+## B. The Drift
+* The Drift was a cataclysmic event that altered the planet's orbit and climate.
+* It caused widespread environmental upheaval, leading to the collapse of many civilizations.
+* The Drift's effects are still felt today, with unpredictable weather patterns and seasonal changes, as well as a general decline in societal mental health, leading to a pervasive sense of hopelessness and despair.
+
+## C. Planetary Data
 
 ### Planet Name: **Yanorra**
 
@@ -25,7 +30,7 @@
 
 Their competing gravitation has made sea travel difficult -- an issue amplified by The Drift.
 
-## C. Geography
+## D. Geography
 
 The known world consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Virelich Ocean**. Each continent contains several nations and loosely organized regions.
 
@@ -66,6 +71,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
   - Northern coast borders the northern Westvoid Ocean, and is mostly rocky and inhospitable.
   - Eastern coast borders the Virelich Ocean.
   - Southern border is mountainous and borders Southmoa and Bibi Shirif
+  - In the north, a group of islands known as **The Riftlands** act as a resting point for ships traveling to Velu. North of The Riftlands **The Far Riftlands**, more commonly called **The Farlands**. Even further north, the **Noxoch Isle** marks the edge of the known northern territory.
 
 #### Port Sable
 - Duvessa's main maritime city.
@@ -73,9 +79,8 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 - Trade, black market activity, and surveillance hub.
 
 #### The Brooding Sea
-- Inland sea east of Duvessa.
+- Inland sea west of Duvessa.
 - Cold, unstable waters.
-- Holds two island chains: The Riftlands and The Far Riftlands.
 - Storms and sudden weather shifts are common.
 
 #### The Riftlands (Island Chain #1)
@@ -109,7 +114,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 - Believed to hold relics, knowledge, or salvation.
 - No confirmed sightings.
 
-## D. Calendar System (Post-Drift)
+## E. Calendar System (Post-Drift)
 
 - Time is measured in planetary rotations ("cycles").
 - Traditional years are no longer used. Instead, time is logged in:
@@ -121,14 +126,14 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
   Example: `142.22.8` = 142,228 days since The Drift
 - The current date is approximately `146.10.0` (146,100 days since The Drift)
 
-## E. Geopolitical Extension: Velu
+## F. Geopolitics
 
-#### Trade Route Summary
+#### Duvessa-Velu Sea Trade
 - Goods flow from **Port Sable** (mainland Duvessa) to **Sabletown** (on Sable Island in the Riftlands).
-- From there, ships may continue eastward toward **Gate Thaurin** in **Velu**.
-- While travel to Velu is technically possible, immigration enforcement and screening make access extremely limited.
+- Most ships stop in **Sabletown** before heading east or west.
+- Velu's **Gate Thaurin** is the only sanctioned port for Velu-bound ships.
 
-## F. World Technology
+## G. World Technology
 
 ### Communication
 - No cell towers or internet infrastructure ever developed.

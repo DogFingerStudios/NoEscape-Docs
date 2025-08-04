@@ -40,6 +40,9 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ## East Yanorra
 
+### Reddelstone
+- Capital: Paz (population: ~300,000)
+
 ### Velu
 - Capital: Byad (population: ~500,000)
 - Largest city: Port Sable (population: ~1.2 million)
@@ -58,6 +61,13 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
   - Rumors persist of undocumented refugees and smuggled correspondence being turned away or "disappeared."
 
 ## West Yanorra
+
+### Bibi Shirif
+- Capital: Zayn al-Qamar (population: ~1.5 million)
+- Largest city: Al-Ma'arif (population: ~2 million)
+
+### Endotoku
+- Capital: Ornerston (population: ~1.2 million)
 
 ### Duvessa
 - Capital: Côte du Soleil
@@ -94,7 +104,31 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
   - Uninhabited, storm-battered, considered cursed.
   - Marks the edge of known, reachable northern territory.
 
-### The Brooding Sea
+### Obetoku
+- Capital: Sanceibei (population: ~700,000)
+
+### Ronobetu
+- Capital: Cam Tower (population: ~1.9 million)
+
+### Samerland
+- Capital: Thetbury (population: ~1.2 million)
+
+### Southmoa
+- Capital: Moa City (population: ~1 million)
+
+### Stanshonia
+- Capital: Carmouth (population: ~1.5 million)
+
+### Thornbelt
+- Capital: Holt (population: ~800,000)
+
+### Totoku
+- Capital: Totoku (population: ~600,000)
+
+### Tsutodo
+- Capital: Cliford (population: 400,000)
+
+## The Brooding Sea
 - Sea separating eastern West Yanorra (Duvessa, Southmoa, etc.) from western West Yanorra (Ronobetu, Tsutodo, etc.)
 - Cold, unstable waters with large swells and unpredictable storms
 - Given the relative proximity of East-West Yanorra and West-West Yanorra, the Brooding Sea is considered a dangerous barrier to maritime travel. Less than 200 miles apart at its narrowest point, only about 20% of ships attempting to cross the Brooding Sea survive the journey.

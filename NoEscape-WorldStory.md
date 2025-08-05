@@ -41,7 +41,7 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 ## East Yanorra
 
 ### Reddelstone
-- Capital: Paz (population: ~300,000)
+- Capital: Paz (pop: ~300,000)
 
 ### Velu
 - Capital: Byad (population: ~500,000)
@@ -63,13 +63,12 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ### Bibi Shirif
 - Capital: Zayn al-Qamar (population: ~1.5 million)
-- Largest city: Al-Ma'arif (population: ~2 million)
 
 ### Endotoku
-- Capital: Ornerston (population: ~1.2 million)
+- Capital: Ornerston (population: 300,000 million)
 
 ### Duvessa
-- Capital: Côte du Soleil
+- Capital: Côte du Soleil (population: ~800,000 million)
 - Largest city: Port Sable (population: ~1.2 million)
 - Government
   - Controlled by authoritarian Ordre-Inka-Roi (DO).
@@ -79,34 +78,39 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
   - Eastern coast borders the Virelich Ocean.
   - Southern border is mountainous and borders Southmoa and Bibi Shirif
   - In the north, a group of islands known as **The Riftlands** act as a resting point for ships traveling to Velu. North of The Riftlands **The Far Riftlands**, more commonly called **The Farlands**. Even further north, the **Noxoch Isle** marks the edge of the known northern territory.
-- **Port Sable**
-  - Duvessa's main maritime city.
-  - Launch point for supply and refugee routes to the Riftlands.
-  - Trade, black market activity, and surveillance hub.
-- **The Riftlands**
-  - A chain of islands northeast of Duvessa, acting as a maritime rest stop between Duvessa and Velu.
-    - **Sable Island** – Largest, contains Sabletown port.
-    - **Saint Armandre** – Former monastic island, now ruins.
-    - **Iskay** – Twin peaks, fog-heavy terrain.
-    - **Morn’e** – Gloomy, failed colonial agriculture site.
-    - **Yana Wat’a** – “Black Island,” associated with death.
-    - **Aguillon** – Sharp terrain, historically used for exile.
-    - **Quelvasto** – Salt-scarred, uninhabitable.
-    - **Sopoko** – Feared ghost island, spiritually avoided.
-- **The Farlands**
-  - A group of islands north of the Riftlands, less inhabited and more dangerous.
-    - **Saint Aveline** – Main island, partially inhabited, now under siege.
-    - **Port Veiskar** – Small, nearly-abandoned fjord town.
-    - **Karrholm** – Misty, bog-like island with ruinous structures.
-- **Noxoch Isle**
-  - Northernmost landmass.
-  - Uninhabited, storm-battered, considered cursed.
-  - Marks the edge of known, reachable northern territory.
+- Provinces
+  - **Nothmoa**
+    - Capital: Port Moa (population: ~80,000)
+    - Northernmost province, bordering the Riftlands.
+    - Known for its rugged terrain and harsh winters.
+- Major Locations
+  - **Port Sable**
+    - Duvessa's main maritime city.
+    - Launch point for supply and refugee routes to the Riftlands.
+    - Trade, black market activity, and surveillance hub.
+  - **The Riftlands**
+    - A chain of islands northeast of Duvessa, acting as a maritime rest stop between Duvessa and Velu.
+      - **Sable Island** – Largest, contains Sabletown port.
+      - **Saint Armandre** – Former monastic island, now ruins.
+      - **Iskay** – Twin peaks, fog-heavy terrain.
+      - **Morn’e** – Gloomy, failed colonial agriculture site.
+      - **Yana Wat’a** – “Black Island,” associated with death.
+      - **Aguillon** – Sharp terrain, historically used for exile.
+      - **Quelvasto** – Salt-scarred, uninhabitable.
+      - **Sopoko** – Feared ghost island, spiritually avoided.
+  - **The Farlands**
+    - A group of islands north of the Riftlands, less inhabited and more dangerous.
+      - **Saint Aveline** – Main island, partially inhabited, now under siege.
+      - **Port Veiskar** – Small, nearly-abandoned fjord town.
+      - **Karrholm** – Misty, bog-like island with ruinous structures.
+  - **Noxoch Isle**
+    - Northernmost landmass.
+    - Uninhabited, storm-battered, considered cursed.
+    - Marks the edge of known, reachable northern territory.
 
 ### Hav
 - Capital: Flord-Clif (population: 50,000)
 - A large, isolated and sparsely populated landmass, located south of East and West Yanorra. Hav is only accessible by sea from southern East Yanorra.
-
 
 ### Obetoku
 - Capital: Sanceibei (population: ~700,000)
@@ -122,6 +126,13 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ### Stanshonia
 - Capital: Carmouth (population: ~1.5 million)
+
+### S'Tsutodo
+- Capital: Dima Eta (population: ~700,000 million)
+- Geography
+  - Located in the southern part of West Yanorra.
+  - Borders the Brooding Sea to the south Ronobetu to the west.
+  - Known for its rugged terrain, dense forests, and mountainous regions.
 
 ### Thornbelt
 - Capital: Holt (population: ~800,000)

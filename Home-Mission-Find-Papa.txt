@@ -29,7 +29,7 @@ Player enters police station.
 
 Police Chief: "What are you doing here?
 
-Player Options A: "I've come to take my father home"  B: "I have something for you you"
+Player Options A: "I've come to take my father home"  B: "I have something for you"
 
 Police Chief "A" Response: "That criminal?  He's scheduled for execution tomorrow at dawn."  GO BACK TO PREVIOUS PROMPT 
 

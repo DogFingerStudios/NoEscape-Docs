@@ -1,5 +1,6 @@
-St. Aveline
-Opening scene
+# St. Aveline
+
+## Opening scene
 
 Static image of a forest from ground level. Trees look beautiful. Sun is shining through the tree tops. Birds chirping. Animal noises in the distance..
 
@@ -31,7 +32,7 @@ Show the villagers be gunned down in the reflection of her eye.
 
 She blinks.
 
-Cut to black
+**Cut to black**
 
 Music starts
 
@@ -48,7 +49,7 @@ Camera flies to the castle there is a general smoking a cigar on a balcony.
 
 Music stops
 
-Cut to black
+**Cut to black**
 
 Fade in.
 

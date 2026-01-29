@@ -1,0 +1,59 @@
+Mission: Find Papa
+
+Player sees papa forgot his papers in the apartment
+
+Prompt: "Bring Papa his papers"
+
+Player inventory contains:
+
+PLayer papers (Name, DOB, Address, Picture, Job Description)
+rolling paper for cigarettes
+Loose tobacco
+A lighter
+
+Papa's papers are sitting on the table.
+
+When player approaches a guard they will be asked "Papers please"
+
+If the player runs away from the guard without presenting papers after being asked the guard will start shooting at the player.  More guards will chase the player until the player and the player's family is dead.
+
+If the player goes too far away from their house they will need travel papers.  The guard will only shoot if the player tries to run past them into a travel paper zone.  If the player stays where they are, then the guard will do nothing.
+
+After player shows their papers to the guards at he building entrance play a cutscene of papa one block away being knocked unconscious by the guards and dragged away.
+
+Player: "cyka blyat"
+
+Player must bribe the guard at the entrance of the police station by rolling a perfect hand made cigarette.
+
+Player enters police station.
+
+Police Chief: "What are you doing here?
+
+Player Options A: "I've come to take my father home"  B: "I have something for you"
+
+Police Chief "A" Response: "That criminal?  He's scheduled for execution tomorrow at dawn."  GO BACK TO PREVIOUS PROMPT 
+
+Police Chief "B" Response: "What possibly could you give me?"
+
+Player Options A: "Roll a perfect hand made cigarette" B: "..."
+
+Police Chief "A" Response: Thanks, I'll have something to smoke while I shoot your father tomorrow morning. GO BACK TO PREVIOUS PROMPT
+
+Police Chief "B" "..." Fade out, fade in.  You now have the keys to Papa's cell.
+
+Prompt: "Bring Papa Home"
+
+Player must use "follow me" with Papa to get him back home.
+
+When player gets home with Papa play cutscene
+
+Cutscene
+
+Player: "We can't live like this anymore"
+
+Papa: "I know, but what can we do?"
+
+Player: "I know a way we can get out of here."
+
+Fade out
+
